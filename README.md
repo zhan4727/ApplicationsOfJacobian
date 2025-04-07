@@ -1,6 +1,6 @@
 # Applications of the Jacobian Determinant
 
-## Watch the Video here: 
+## Watch the Video here: https://www.youtube.com/watch?v=JVWdxwLbbyM
 
 
 [![Applications of the Jacobian Determinant](https://img.youtube.com/vi/JVWdxwLbbyM/0.jpg)](https://www.youtube.com/watch?v=JVWdxwLbbyM)
