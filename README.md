@@ -1,6 +1,9 @@
 # Applications of the Jacobian Determinant
 
-## Watch the Video here: [![Applications of the Jacobian Determinant](https://img.youtube.com/vi/JVWdxwLbbyM/0.jpg)](https://www.youtube.com/watch?v=JVWdxwLbbyM)
+## Watch the Video here: 
+
+
+[![Applications of the Jacobian Determinant](https://img.youtube.com/vi/JVWdxwLbbyM/0.jpg)](https://www.youtube.com/watch?v=JVWdxwLbbyM)
 
 ## Install Manim
 
